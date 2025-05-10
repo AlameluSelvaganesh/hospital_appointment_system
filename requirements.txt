@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlmodel
+bcrypt
+python-jose
+python-dotenv
+fastapi
+uvicorn
+sqlmodel
+bcrypt
+python-jose
+python-dotenv

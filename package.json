@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix frontend\" \"uvicorn backend.app:app --reload\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "dependencies": {
+    "react-datepicker": "^8.3.0"
+  }
+}

@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+.env
+
+# --- Node.js / React ---
+node_modules/
+frontend/node_modules/
+*.log
+dist/
+build/
+*.lock
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
+
+# --- VSCode Settings ---
+.vscode/
+
+# --- React + Vite ---
+*.local
+backend/.env
+frontend/dist/
+frontend/.next/
+frontend/.vite/
+
